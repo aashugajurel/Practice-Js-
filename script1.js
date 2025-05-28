@@ -7,4 +7,4 @@ async function getUser(){
 }
 let userData = getUser();
     console.log(userData);
-    i cant neklnwfklnwekfkenfjknkjefnkjre
+    
